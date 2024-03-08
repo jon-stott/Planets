@@ -7,19 +7,35 @@ To run it, you will need to either use an actual Acorn computer (such as the RIS
 
 ![Screenshot of the Planets program running](screenshot.png)
 
+Planets.mov is a screen recording of the animation running.
+
 # Controls
 When running, the following keys control things:
+
 A - Change to a Mars-focused view
+
 J - Change to a Jupiter-focused view
+
 S - Change to a Saturn-focused view
+
 N - Change to a Neptune-focused view
-U - 
+
+U - Change to a Uranus-focused view
+
 ' - Increase the angle of view in relation to a plane based on Earth's orbit
+
 / - Decrease the anfle of view in relation to a plane based on Earth's orbit
+
 Left arrow - Decrease the time scale (slow the animation down)
+
 Right arrow - Increase the time scale (speed the animation up)
+
 Up arrow - Zoom in
+
 Down arrow - Zoom out
+
 Q - Return to teh solar-system view from a planet-focused view
+
 Space - Toggle planet names
+
 O - Toggle orbits
