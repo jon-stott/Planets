@@ -1,9 +1,9 @@
 # Planets
 A BBC BASIC program to simulate the solar system. This program was published in the February 1998 edition of Acorn User.
 
-Planets.bas is a detokenised BBC BASIC file to allow the code to be viewed outside of RISC OS. Planets is the tokenised file for use on RISC OS.
+`Planets.bas` is a detokenised BBC BASIC file to allow the code to be viewed outside of RISC OS. `Planets,ffb` is the tokenised file for use on RISC OS.
 
-To run it, you will need to either use an actual Acorn computer (such as the RISC PC), or install an emulator such as [RPCEmu](https://www.marutan.net/rpcemu/index.php). The Planets file can be dropped into the HostFS folder to make it available to the emulator. Within the emulator, open the HostFS file system and double-click on Planets to run.
+To run it, you will need to either use an actual Acorn computer (such as the RISC PC), or install an emulator such as [RPCEmu](https://www.marutan.net/rpcemu/index.php). The `Planets,ffb` file can be dropped into the HostFS folder to make it available to the emulator. Within the emulator, open the HostFS file system and double-click on Planets to run.
 
 ![Screenshot of the Planets program running](screenshot.png)
 
